@@ -21,9 +21,3 @@ AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monito
 ## Education
 
 jazan Univstery
-# list of 5 projects
-dojo-jump-docker-
-dojo-jump https://github.com/normosa20/dojo-jump.git
-codebuild-pyhello https://github.com/normosa20/codebuild-pyhello.git
-docker-flask
-awesome-linux-commands https://github.com/normosa20/awesome-linux-commands.git
